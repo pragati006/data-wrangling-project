@@ -44,3 +44,10 @@ Following are the fields of interest for analysis:
 2) retweet_count: Count of retweet over a period of time was plotted.
 3) favorite_count: Count of favorites over a period of time was plotted.
 4) rating_numerator and rating_denominator: rating ratio was calculated and plotted over a period of time.
+
+Analysis of twitter users @dog_rates leads to following insights:
+1) Twitter @dog_rates is being accessed more through iPhones ( source of access)
+2) Retweets and Favorites count follow a similar pattern of highs and low over a period of
+time but count of favorites is always higher
+3) Rating pattern has changed over a period of time with rating numerator more than
+denominator(10).May be the users have started to understand the special rating process @dog_rates
